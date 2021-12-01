@@ -1,15 +1,22 @@
 {
     "name": "neon-shimmer",
     "displayName": "Neon Shimmer",
-    "description": "An Arcane inspired high contrast color theme for the neon lovers.",
-    "version": "0.0.1",
+    "description": "An Arcane inspired high contrast colour theme for neon lovers.",
+    "version": "0.0.2",
     "publisher": "piperunner",
-    "keywords": ["cyberpunk", "neon", "dark", "contrast", "jinx", "arcane"],
+    "keywords": [
+        "cyberpunk",
+        "neon",
+        "dark",
+        "contrast",
+        "jinx",
+        "arcane"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/Pipe-Runner-Lab/neon-shimmer"
     },
-    "icon": "assets/images/icon.jpg",
+    "icon": "assets/images/icon.png",
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -24,5 +31,12 @@
                 "path": "./themes/alpha.json"
             }
         ]
+    },
+    "scripts": {
+        "login" : "npx vsce login",
+        "publish": "npx vsce publish"
+    },
+    "devDependencies": {
+        "vsce": "^2.5.1"
     }
 }
