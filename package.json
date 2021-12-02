@@ -1,8 +1,8 @@
 {
     "name": "neon-shimmer",
     "displayName": "Neon Shimmer",
-    "description": "An Arcane inspired high contrast colour theme for neon lovers.",
-    "version": "0.0.3",
+    "description": "An Arcane and Cyberpunk inspired dark colour for neon lovers.",
+    "version": "0.0.4",
     "publisher": "piperunner",
     "keywords": [
         "cyberpunk",
@@ -27,7 +27,7 @@
         "themes": [
             {
                 "label": "Neon Shimmer / Alpha",
-                "uiTheme": "hc-black",
+                "uiTheme": "vs-dark",
                 "path": "./themes/alpha.json"
             }
         ]
