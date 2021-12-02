@@ -2,8 +2,9 @@
     "name": "neon-shimmer",
     "displayName": "Neon Shimmer",
     "description": "An Arcane and Cyberpunk inspired dark colour for neon lovers.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "piperunner",
+    "preview": true,
     "keywords": [
         "cyberpunk",
         "neon",
