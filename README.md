@@ -1,5 +1,6 @@
 # Neon Shimmer
 An Arcane and Cyberpunk inspired high contrast colour theme for neon lovers.
+
 ![image](https://user-images.githubusercontent.com/19551058/144483887-d696e39e-ac52-4ce3-b9eb-3baa4e7f2931.png)
 
 ## Color Palette
