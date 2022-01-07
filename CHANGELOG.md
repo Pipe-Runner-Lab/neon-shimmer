@@ -6,6 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [1.0.1]
+## [1.0.2]
 ### Changed
 - Fixed background selection color for terminal
+- Updated screenshots

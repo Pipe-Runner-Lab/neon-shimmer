@@ -7,11 +7,11 @@ An Arcane and Cyberpunk inspired dark theme for neon lovers.
 
 ## 1.1 Preview
 
-![2021-12-03_11-34](https://user-images.githubusercontent.com/19551058/144554419-65290293-43cf-41ff-9e5e-10986a2493e4.png)
+![2021-12-03_11-34](https://user-images.githubusercontent.com/19551058/148550578-ea0d169a-53bc-4afd-acb3-b09eaaaf0d96.png)
 
-![2021-12-03_11-32](https://user-images.githubusercontent.com/19551058/144554427-3b43a181-c9e0-4418-916e-610f1fda5850.png)
+![2021-12-03_11-32](https://user-images.githubusercontent.com/19551058/148550603-53e4d90f-566f-4c4e-872c-53b72e26f7e6.png)
 
-![2021-12-03_11-31](https://user-images.githubusercontent.com/19551058/144554436-2ead49fa-3a3f-46a1-9d3d-93948286ae64.png)
+![2021-12-03_11-31](https://user-images.githubusercontent.com/19551058/148550611-f946d8ca-0324-4903-b381-d3c6933a00a3.png)
 
 
 ## 1.2 Color Palette
