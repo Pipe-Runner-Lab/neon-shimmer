@@ -1,43 +1,58 @@
 {
-    "name": "neon-shimmer",
-    "displayName": "Neon Shimmer",
-    "description": "An Arcane and Cyberpunk inspired dark theme for neon lovers.",
-    "version": "1.0.2",
-    "publisher": "piperunner",
-    "preview": false,
-    "keywords": [
-        "cyberpunk",
-        "neon",
-        "dark",
-        "contrast",
-        "jinx",
-        "arcane"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Pipe-Runner-Lab/neon-shimmer"
-    },
-    "icon": "assets/images/icon.png",
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Neon Shimmer / Alpha",
-                "uiTheme": "vs-dark",
-                "path": "./themes/alpha.json"
-            }
-        ]
-    },
-    "scripts": {
-        "login" : "npx vsce login",
-        "publish": "npx vsce publish"
-    },
-    "devDependencies": {
-        "vsce": "^2.5.1"
-    }
+  "name": "neon-shimmer",
+  "displayName": "Neon Shimmer",
+  "description": "An Arcane and Cyberpunk inspired dark theme for neon lovers.",
+  "version": "1.1.0",
+  "publisher": "piperunner",
+  "preview": false,
+  "keywords": [
+    "cyberpunk",
+    "neon",
+    "dark",
+    "contrast",
+    "jinx",
+    "arcane"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pipe-Runner-Lab/neon-shimmer"
+  },
+  "icon": "assets/images/icon.png",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Shimmer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon.json"
+      },
+      {
+        "label": "Neon Shimmer // Crimson Drive",
+        "uiTheme": "vs-dark",
+        "path": "./themes/red.json"
+      },
+      {
+        "label": "Neon Shimmer // Bubblegum Punk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink.json"
+      },
+      {
+        "label": "Neon Shimmer // Amethyst Core",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1"
+  }
 }
